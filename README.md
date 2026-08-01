@@ -69,7 +69,7 @@ KPI summary cards (Total Students, Avg Exam Score, Avg Attendance, Avg Hours Stu
 ### 2. Study Habits Impact
 Hours Studied, Sleep Hours, and Tutoring Sessions vs Exam Score.
 
-![Study Habits Impact](Screenshots/Study_Habits_Impact.png)
+![Study Habits Impact](Screenshots/Study Habits Impact.png)
 
 ### 3. Background Factors
 Parental Involvement, Family Income, Parental Education, Distance from Home.
