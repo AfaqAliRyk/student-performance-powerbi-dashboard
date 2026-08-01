@@ -69,22 +69,22 @@ KPI summary cards (Total Students, Avg Exam Score, Avg Attendance, Avg Hours Stu
 ### 2. Study Habits Impact
 Hours Studied, Sleep Hours, and Tutoring Sessions vs Exam Score.
 
-![Study Habits Impact](Screenshots/Study Habits Impact.png)
+![Study Habits Impact](Screenshots/Study%20Habits%20Impact.png)
 
 ### 3. Background Factors
 Parental Involvement, Family Income, Parental Education, Distance from Home.
 
-![Background Factors](Screenshots/Background_Factors.png)
+![Background Factors](Screenshots/Background%20Factors.png)
 
 ### 4. Behavioral Factors
 Extracurricular Activities, Learning Disabilities, Attendance, Motivation Level.
 
-![Behavioral Factors](Screenshots/Behavioral_Factors.png)
+![Behavioral Factors](Screenshots/Behavioral%20Factors.png)
 
 ### 5. Deep Dive
 Decomposition tree and Key Influencers AI visual for automated root-cause analysis.
 
-![Deep Dive](Screenshots/Deep_Dive.png)
+![Deep Dive](Screenshots/Deep%20Dive.png)
 ---
 
 ## 🛠️ Tools Used
