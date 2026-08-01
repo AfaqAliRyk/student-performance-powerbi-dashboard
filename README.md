@@ -79,7 +79,7 @@ Parental Involvement, Family Income, Parental Education, Distance from Home.
 ### 4. Behavioral Factors
 Extracurricular Activities, Learning Disabilities, Attendance, Motivation Level.
 
-![Behavioral Factors](Screenshots/Behavioral%20Factors.png)
+![Behavioral Factors](Screenshots/Bahavioral%20Factors.png)
 
 ### 5. Deep Dive
 Decomposition tree and Key Influencers AI visual for automated root-cause analysis.
