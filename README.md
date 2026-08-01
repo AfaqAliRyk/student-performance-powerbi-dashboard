@@ -120,7 +120,7 @@ Top Performers (%) =
 ## 👤 Author
 
 **Afaq** — Data Analytics enthusiast, transitioning career focus into Excel & Power BI.
-Connect on [LinkedIn](#).
+Connect on [LinkedIn](www.linkedin.com/in/iamafaqali).
 
 ---
 
