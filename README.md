@@ -61,12 +61,30 @@ Correlation analysis against Exam_Score revealed:
 
 ## 📑 Dashboard Pages
 
-1. **Overview** — KPI summary cards (Total Students, Avg Exam Score, Avg Attendance, Avg Hours Studied), gender distribution, exam score distribution
-2. **Study Habits Impact** — Hours Studied, Sleep Hours, and Tutoring Sessions vs Exam Score
-3. **Background Factors** — Parental Involvement, Family Income, Parental Education, Distance from Home
-4. **Behavioral Factors** — Extracurricular Activities, Learning Disabilities, Attendance, Motivation Level
-5. **Deep Dive** — Decomposition tree and Key Influencers AI visual for automated root-cause analysis
+### 1. Overview
+KPI summary cards (Total Students, Avg Exam Score, Avg Attendance, Avg Hours Studied), gender distribution, exam score distribution.
 
+![Overview](Screenshots/Overview.png)
+
+### 2. Study Habits Impact
+Hours Studied, Sleep Hours, and Tutoring Sessions vs Exam Score.
+
+![Study Habits Impact](Screenshots/Study_Habits_Impact.png)
+
+### 3. Background Factors
+Parental Involvement, Family Income, Parental Education, Distance from Home.
+
+![Background Factors](Screenshots/Background_Factors.png)
+
+### 4. Behavioral Factors
+Extracurricular Activities, Learning Disabilities, Attendance, Motivation Level.
+
+![Behavioral Factors](Screenshots/Behavioral_Factors.png)
+
+### 5. Deep Dive
+Decomposition tree and Key Influencers AI visual for automated root-cause analysis.
+
+![Deep Dive](Screenshots/Deep_Dive.png)
 ---
 
 ## 🛠️ Tools Used
